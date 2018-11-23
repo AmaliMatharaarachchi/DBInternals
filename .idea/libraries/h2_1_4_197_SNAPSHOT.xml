@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="h2-1.4.197-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../h2database-master/h2/target/h2-1.4.197-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/h2database/h2/target/h2-1.4.197-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
